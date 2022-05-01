@@ -79,3 +79,9 @@
    >Esse projeto foi desenvolvido por Erick Augusto, com os instrutores da **[Rocketseat](https://rocketseat.com.br/)**, na #NextLevelWeekHeat.<br>
 
 ---
+
+<div align="center">
+
+   [![Linkedin Badge](https://img.shields.io/badge/-Erick%20Augusto-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-augusto-silva/)](https://www.linkedin.com/in/erick-augusto-silva/)
+
+</div>
